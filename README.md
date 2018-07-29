@@ -1,2 +1,2 @@
 # Estrutura de Dados
-Repositório criado para a disciplina de Estrutura de Dadps (2017.2) do IFCE - Campus Jaguaribe.
+Repositório criado para a disciplina de Estrutura de Dados do IFCE - Campus Jaguaribe.
