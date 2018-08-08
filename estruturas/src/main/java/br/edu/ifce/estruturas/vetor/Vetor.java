@@ -7,10 +7,12 @@ public class Vetor {
 
 	public void adiciona(Aluno aluno) {
 		// implementacao
+		totalDeAlunos++;
 	}
 
 	public void adiciona(int posicao, Aluno aluno) {
 		// implementacao
+		totalDeAlunos++;
 	}
 
 	public Aluno pega(int posicao) {
